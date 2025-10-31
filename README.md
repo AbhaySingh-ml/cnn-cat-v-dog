@@ -53,3 +53,42 @@ cnn-cat-v-dog/
 ├── README.md # Project documentation
 │
 └── requirements.txt # Python dependencies
+
+
+
+---
+
+## 🔍 Model Architecture
+- **Input Layer:** 128×128 RGB images  
+- **Convolution + MaxPooling Layers:** 3 blocks  
+- **Flatten Layer**  
+- **Dense Layers:** Fully connected layers with ReLU activation  
+- **Output Layer:** Sigmoid activation (binary classification)
+
+---
+
+## 📈 Training & Evaluation
+- **Loss Function:** Binary Crossentropy  
+- **Optimizer:** Adam  
+- **Metrics:** Accuracy  
+- **Epochs:** ~25–30  
+- **Batch Size:** 32  
+
+The model achieved an **accuracy of ~90%** on the validation dataset.
+
+---
+
+## 📦 Model File
+The trained model file (`dogs_vs_cats_model.h5`) is large (>50MB) and cannot be previewed on GitHub.  
+
+You can download it here once uploaded:  
+📥 [Download Model from Google Drive](#) *(Add your link here after upload)*
+
+---
+
+## 🖥️ How to Run the Project
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/AbhaySingh-ml/cnn-cat-v-dog.git
+   cd cnn-cat-v-dog
+
