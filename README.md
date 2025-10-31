@@ -33,3 +33,23 @@ The goal is to train a neural network that can accurately predict whether an ima
 ---
 
 ## 🗂️ Project Structure
+
+cnn-cat-v-dog/
+│
+├── dataset/ # Training and validation data
+│ ├── train/
+│ ├── test/
+│
+├── notebooks/
+│ └── cat_dog_cnn.ipynb # Main notebook for model training
+│
+├── models/
+│ └── dogs_vs_cats_model.h5 # Trained CNN model (linked externally)
+│
+├── images/ # Example input/output images
+│
+├── app.py # Streamlit app for inference (optional)
+│
+├── README.md # Project documentation
+│
+└── requirements.txt # Python dependencies
