@@ -1,6 +1,6 @@
 # 🐶🐱 CNN Cat vs Dog Classification
 
-## 📘 Overvi
+## 📘 Overv
 This project demonstrates a **Convolutional Neural Network (CNN)** model built to classify images of **cats and dogs**.  
 It is a foundational deep learning project aimed at understanding **image classification**, **data preprocessing**, and **model evaluation** using **TensorFlow/Keras**.
 
