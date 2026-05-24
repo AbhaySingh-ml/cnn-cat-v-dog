@@ -1,4 +1,4 @@
-# 🐶🐱 CNN Cat vs Dog Classification 1 2 3 4 5 6 7 8 9 10
+# 🐶🐱 CNN Cat vs Dog Classification 1 2 3 4 5 6 7 8 9 
 
 ## 📘 Overview
 This project demonstrates a **Convolutional Neural Network (CNN)** model built to classify images of **cats and dogs**.  
